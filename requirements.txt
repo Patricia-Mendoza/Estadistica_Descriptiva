@@ -1,1 +1,6 @@
-ipywidgetspandasmatplotlibvoila
+ipywidgets
+pandas
+matplotlib
+voila
+openpyxl
+
