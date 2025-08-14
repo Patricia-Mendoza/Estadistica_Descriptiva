@@ -1,6 +1,6 @@
-ipywidgets
-pandas
-matplotlib
-voila
-openpyxl
-seaborn
+ipywidgets==8.1.2
+pandas==2.2.2
+matplotlib==3.9.0
+voila==0.5.6
+openpyxl==3.1.2
+seaborn==0.13.2
